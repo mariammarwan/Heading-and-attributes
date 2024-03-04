@@ -1,0 +1,1 @@
+# Heading-and-attributes\n <!DOCTYPE html>\n Quirks Mode\n Yes\n No\adings\n No\n No\n They will be the same\n title = yes\n href = yes\n src = n hidden = no\n charset = no\n class = yes\n id = yes\n type = no
